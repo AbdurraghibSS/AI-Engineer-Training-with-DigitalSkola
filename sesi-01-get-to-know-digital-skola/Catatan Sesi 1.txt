@@ -1,0 +1,15 @@
+sesi dimulai dari perkenalan masing masing peserta pelatihan.
+Selanjutnya class representation (CR) mengenalkan DigitalSkola lebih jauh, seperti jadwal kelas, perkenalan mentor, pengenalan LMS digitalskola, bagaimana cara presensi, mengerjakan quiz, homework, project, dll.
+Kemudian dijelaskan bagaimana pembagian bobot penilaian serta minimal score untuk dinyatakan lulus. Minimum score harus dicapai untuk mendapatkan Certificate of Graduation, kurang dari minimum score tetap dapat sertifikat, tapi jenis sertifikatnya ada Certificate of Completion.
+
+Selanjutnya, kami di bagi menjadi beberapa kelompok, kemudian membentuk nama kelompok, dan mempresentasikan filosofi dari nama kelompok tersebut.
+
+Nama Kelompok : BLAST OFF
+Filosofi : Blast off secara harfiah berarti peluncuran roket. Sebagai nama kelompok, maknanya adalah awal perjalanan menuju kemampuan dan inovasi yang lebih tinggi.
+- Ambition — berani punya target besar.
+- Learning — terus mengasah kemampuan AI dan teknologi.
+- Building — tidak berhenti di teori, tetapi menghasilkan proyek nyata.
+- Impact — menciptakan solusi yang berguna bagi orang lain.
+
+Tagline : Techies, Ready for Liftoff!
+Sesi Selesai

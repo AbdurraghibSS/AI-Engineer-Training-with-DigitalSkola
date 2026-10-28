@@ -14,6 +14,8 @@
 
 ---
 
+<div align="justify">
+
 ## 📌 Tentang Sesi · *About This Session*
 
 📅 **Senin, 7 Desember 2026** · 19.15 – 21.15 WIB<br>
@@ -24,9 +26,13 @@ Mengemas aplikasi AI ke dalam <i>container</i> Docker dan menyimpan <i>image</i>
 
 ## 🧠 Yang Dipelajari · *What I Learned*
 
+</div>
+
 > [!NOTE]
 > Diisi setelah sesi berlangsung.<br>
 > *To be filled after the session.*
+
+<div align="justify">
 
 - [ ] …
 
@@ -39,6 +45,8 @@ Mengemas aplikasi AI ke dalam <i>container</i> Docker dan menyimpan <i>image</i>
 ## 💡 Catatan & Referensi · *Notes & References*
 
 - _(menyusul · *coming soon*)_
+
+</div>
 
 ---
 

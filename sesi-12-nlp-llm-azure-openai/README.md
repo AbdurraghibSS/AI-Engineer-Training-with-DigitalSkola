@@ -14,6 +14,8 @@
 
 ---
 
+<div align="justify">
+
 ## 📌 Tentang Sesi · *About This Session*
 
 📅 **Senin, 23 November 2026** · 19.15 – 21.15 WIB<br>
@@ -24,9 +26,13 @@ Dasar NLP dan LLM, <i>prompt engineering</i>, serta memanggil model lewat Azure 
 
 ## 🧠 Yang Dipelajari · *What I Learned*
 
+</div>
+
 > [!NOTE]
 > Diisi setelah sesi berlangsung.<br>
 > *To be filled after the session.*
+
+<div align="justify">
 
 - [ ] …
 
@@ -39,6 +45,8 @@ Dasar NLP dan LLM, <i>prompt engineering</i>, serta memanggil model lewat Azure 
 ## 💡 Catatan & Referensi · *Notes & References*
 
 - _(menyusul · *coming soon*)_
+
+</div>
 
 ---
 

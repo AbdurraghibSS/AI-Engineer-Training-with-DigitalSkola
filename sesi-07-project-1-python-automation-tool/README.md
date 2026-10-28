@@ -14,6 +14,8 @@
 
 ---
 
+<div align="justify">
+
 ## 📌 Tentang Sesi · *About This Session*
 
 📅 **Rabu, 11 November 2026** · 19.15 – 21.15 WIB<br>
@@ -24,9 +26,13 @@ Proyek pertama: membangun alat otomasi berbasis Python dari materi sesi 3–6.<b
 
 ## 🧠 Yang Dipelajari · *What I Learned*
 
+</div>
+
 > [!NOTE]
 > Diisi setelah sesi berlangsung.<br>
 > *To be filled after the session.*
+
+<div align="justify">
 
 - [ ] …
 
@@ -39,6 +45,8 @@ Proyek pertama: membangun alat otomasi berbasis Python dari materi sesi 3–6.<b
 ## 💡 Catatan & Referensi · *Notes & References*
 
 - _(menyusul · *coming soon*)_
+
+</div>
 
 ---
 

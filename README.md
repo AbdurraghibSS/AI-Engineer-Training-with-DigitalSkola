@@ -6,13 +6,15 @@
 
 <img src="https://img.shields.io/badge/Digital%20Skola-Bootcamp-1B2A6B?style=for-the-badge" alt="Digital Skola"/> <img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik01LjQ4MyAyMS4zSDI0TDE0LjAyNSA0LjAxM2wtMy4wMzggOC4zNDcgNS44MzYgNi45MzhMNS40ODMgMjEuM3pNMTMuMjMgMi43TDYuMTA1IDguNjc3IDAgMTkuMjUzaDUuNTA1di4wMTRMMTMuMjMgMi43eiIvPjwvc3ZnPg%3D%3D" alt="Microsoft Azure"/> <img src="https://img.shields.io/badge/Sertifikasi-AI--901-FFB900?style=for-the-badge" alt="Sertifikasi"/>
 
-<img src="https://img.shields.io/badge/Sesi-23-1B2A6B?style=flat-square" alt="Sesi"/> <img src="https://img.shields.io/badge/Proyek-4%20%2B%20Final-8A2BE2?style=flat-square" alt="Proyek"/> <img src="https://img.shields.io/badge/Periode-28%20Okt%20%E2%80%93%2023%20Des%202026-0078D4?style=flat-square" alt="Periode"/> <img src="https://img.shields.io/badge/Progres-0%2F23%20sesi-2EA043?style=flat-square" alt="Progres"/>
+<img src="https://img.shields.io/badge/Sesi-23-1B2A6B?style=flat-square" alt="Sesi"/> <img src="https://img.shields.io/badge/Proyek-4%20%2B%20Final-8A2BE2?style=flat-square" alt="Proyek"/> <img src="https://img.shields.io/badge/Periode-28%20Okt%20%E2%80%93%2023%20Des%202026-0078D4?style=flat-square" alt="Periode"/> <img src="https://img.shields.io/badge/Progres-1%2F23%20sesi-2EA043?style=flat-square" alt="Progres"/>
 
 🇮🇩 Bahasa Indonesia &nbsp;·&nbsp; 🇬🇧 *English in italics*
 
 </div>
 
 ---
+
+<div align="justify">
 
 ## 👋 Tentang Repo Ini · *About This Repo*
 
@@ -24,7 +26,7 @@ Repo ini mendokumentasikan perjalanan saya mengikuti bootcamp **AI Engineer** di
 
 **📈 Progres · *Progress***
 
-`░░░░░░░░░░░░░░░░░░░░` **0%** &nbsp;<sub>(0 dari 23 sesi selesai · *0 of 23 sessions done*)</sub>
+`█░░░░░░░░░░░░░░░░░░░` **4%** &nbsp;<sub>(1 dari 23 sesi selesai · *1 of 23 sessions done*)</sub>
 
 </div>
 
@@ -101,7 +103,7 @@ Klik tiap sesi untuk melihat ringkasannya. Semua sesi berlangsung **19.15 – 21
 <sub><i>Phase 1 · Python, Data & Azure Foundations</i> · Sesi 1–12 · 28 Oktober – 23 November 2026</sub>
 
 <details>
-<summary>🔄 <b>Sesi 01</b> &nbsp;👋 <b>Get to Know Digital Skola</b> &nbsp;<sub>· Rabu, 28 Oktober 2026</sub></summary>
+<summary>✅ <b>Sesi 01</b> &nbsp;👋 <b>Get to Know Digital Skola</b> &nbsp;<sub>· Rabu, 28 Oktober 2026</sub></summary>
 <br>
 
 <table><tr><td>
@@ -118,7 +120,7 @@ Perkenalan program, mentor, sesama peserta, alur belajar 23 sesi, serta aturan t
 </details>
 
 <details>
-<summary>⏳ <b>Sesi 02</b> &nbsp;☁️ <b>Intro to Azure AI Engineering</b> &nbsp;<sub>· Jumat, 30 Oktober 2026</sub></summary>
+<summary>🔄 <b>Sesi 02</b> &nbsp;☁️ <b>Intro to Azure AI Engineering</b> &nbsp;<sub>· Jumat, 30 Oktober 2026</sub></summary>
 <br>
 
 <table><tr><td>
@@ -523,6 +525,8 @@ Presentasi <i>final project</i> di depan mentor dan peserta lain.<br>
 ├── ...
 └── sesi-23-final-project-showcase/
 ```
+
+</div>
 
 ---
 

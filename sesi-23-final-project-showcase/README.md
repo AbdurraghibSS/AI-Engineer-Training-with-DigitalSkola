@@ -14,6 +14,8 @@
 
 ---
 
+<div align="justify">
+
 ## 📌 Tentang Sesi · *About This Session*
 
 📅 **Rabu, 23 Desember 2026** · 19.15 – 21.15 WIB<br>
@@ -24,9 +26,13 @@ Presentasi <i>final project</i> di depan mentor dan peserta lain.<br>
 
 ## 🧠 Yang Dipelajari · *What I Learned*
 
+</div>
+
 > [!NOTE]
 > Diisi setelah sesi berlangsung.<br>
 > *To be filled after the session.*
+
+<div align="justify">
 
 - [ ] …
 
@@ -39,6 +45,8 @@ Presentasi <i>final project</i> di depan mentor dan peserta lain.<br>
 ## 💡 Catatan & Referensi · *Notes & References*
 
 - _(menyusul · *coming soon*)_
+
+</div>
 
 ---
 

@@ -14,6 +14,8 @@
 
 ---
 
+<div align="justify">
+
 ## 📌 Tentang Sesi · *About This Session*
 
 📅 **Senin, 9 November 2026** · 19.15 – 21.15 WIB<br>
@@ -24,9 +26,13 @@ Membaca, membersihkan, mentransformasi, dan menggabungkan data tabular dengan Pa
 
 ## 🧠 Yang Dipelajari · *What I Learned*
 
+</div>
+
 > [!NOTE]
 > Diisi setelah sesi berlangsung.<br>
 > *To be filled after the session.*
+
+<div align="justify">
 
 - [ ] …
 
@@ -39,6 +45,8 @@ Membaca, membersihkan, mentransformasi, dan menggabungkan data tabular dengan Pa
 ## 💡 Catatan & Referensi · *Notes & References*
 
 - _(menyusul · *coming soon*)_
+
+</div>
 
 ---
 

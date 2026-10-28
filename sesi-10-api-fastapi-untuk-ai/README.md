@@ -14,6 +14,8 @@
 
 ---
 
+<div align="justify">
+
 ## 📌 Tentang Sesi · *About This Session*
 
 📅 **Rabu, 18 November 2026** · 19.15 – 21.15 WIB<br>
@@ -24,9 +26,13 @@ Konsep REST API dan membangun <i>endpoint</i> layanan AI dengan FastAPI.<br>
 
 ## 🧠 Yang Dipelajari · *What I Learned*
 
+</div>
+
 > [!NOTE]
 > Diisi setelah sesi berlangsung.<br>
 > *To be filled after the session.*
+
+<div align="justify">
 
 - [ ] …
 
@@ -39,6 +45,8 @@ Konsep REST API dan membangun <i>endpoint</i> layanan AI dengan FastAPI.<br>
 ## 💡 Catatan & Referensi · *Notes & References*
 
 - _(menyusul · *coming soon*)_
+
+</div>
 
 ---
 

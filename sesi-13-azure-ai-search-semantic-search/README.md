@@ -14,6 +14,8 @@
 
 ---
 
+<div align="justify">
+
 ## 📌 Tentang Sesi · *About This Session*
 
 📅 **Rabu, 25 November 2026** · 19.15 – 21.15 WIB<br>
@@ -24,9 +26,13 @@ Membuat indeks dokumen di Azure AI Search, <i>embedding</i>, <i>vector search</i
 
 ## 🧠 Yang Dipelajari · *What I Learned*
 
+</div>
+
 > [!NOTE]
 > Diisi setelah sesi berlangsung.<br>
 > *To be filled after the session.*
+
+<div align="justify">
 
 - [ ] …
 
@@ -39,6 +45,8 @@ Membuat indeks dokumen di Azure AI Search, <i>embedding</i>, <i>vector search</i
 ## 💡 Catatan & Referensi · *Notes & References*
 
 - _(menyusul · *coming soon*)_
+
+</div>
 
 ---
 
