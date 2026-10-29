@@ -24,6 +24,8 @@
 Proyek ketiga: <i>chatbot</i> berbasis RAG yang menjawab pertanyaan dari kumpulan dokumen sendiri.<br>
 *Third project: a RAG chatbot that answers questions from your own document collection.*
 
+🚀 **Halaman proyek · *Project page*:** [proyek/03-ai-chatbot-rag-azure](../proyek/03-ai-chatbot-rag-azure/)
+
 ## 🧠 Yang Dipelajari · *What I Learned*
 
 </div>

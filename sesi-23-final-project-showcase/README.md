@@ -24,6 +24,8 @@
 Presentasi <i>final project</i> di depan mentor dan peserta lain.<br>
 *Presenting the final project to mentors and fellow participants.*
 
+🚀 **Halaman proyek · *Project page*:** [proyek/final-project](../proyek/final-project/)
+
 ## 🧠 Yang Dipelajari · *What I Learned*
 
 </div>

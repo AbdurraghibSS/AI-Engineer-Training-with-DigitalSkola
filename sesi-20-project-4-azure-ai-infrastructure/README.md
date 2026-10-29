@@ -24,6 +24,8 @@
 Proyek keempat: merancang dan menyiapkan infrastruktur AI di Azure dari <i>container</i> sampai <i>deployment</i>.<br>
 *Fourth project: designing and provisioning AI infrastructure on Azure, from containers to deployment.*
 
+🚀 **Halaman proyek · *Project page*:** [proyek/04-azure-ai-infrastructure](../proyek/04-azure-ai-infrastructure/)
+
 ## 🧠 Yang Dipelajari · *What I Learned*
 
 </div>

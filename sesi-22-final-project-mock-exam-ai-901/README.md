@@ -24,6 +24,8 @@
 Menyatukan seluruh materi dalam <i>final project</i> dan latihan ujian sertifikasi AI-901.<br>
 *Bringing all the material together in the final project, plus a practice exam for the AI-901 certification.*
 
+🚀 **Halaman proyek · *Project page*:** [proyek/final-project](../proyek/final-project/)
+
 ## 🧠 Yang Dipelajari · *What I Learned*
 
 </div>

@@ -24,6 +24,8 @@
 Proyek kedua: <i>pipeline</i> data utuh dari pengambilan, pembersihan, penyimpanan, sampai disajikan lewat API.<br>
 *Second project: a complete data pipeline, from ingestion and cleaning to storage and serving through an API.*
 
+🚀 **Halaman proyek · *Project page*:** [proyek/02-end-to-end-data-pipeline](../proyek/02-end-to-end-data-pipeline/)
+
 ## 🧠 Yang Dipelajari · *What I Learned*
 
 </div>

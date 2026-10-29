@@ -24,6 +24,8 @@
 Proyek pertama: membangun alat otomasi berbasis Python dari materi sesi 3–6.<br>
 *First project: building a Python automation tool using what was covered in sessions 3–6.*
 
+🚀 **Halaman proyek · *Project page*:** [proyek/01-python-automation-tool](../proyek/01-python-automation-tool/)
+
 ## 🧠 Yang Dipelajari · *What I Learned*
 
 </div>

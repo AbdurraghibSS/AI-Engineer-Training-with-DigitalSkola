@@ -215,7 +215,7 @@ Proyek pertama: membangun alat otomasi berbasis Python dari materi sesi 3–6.<b
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/Automation-FF6F00?style=flat-square" alt="Automation"/>
 
-📂 <a href="sesi-07-project-1-python-automation-tool/"><b>Buka catatan & tugas</b> · <i>Open notes & assignments</i> →</a>
+📂 <a href="sesi-07-project-1-python-automation-tool/"><b>Buka catatan & tugas</b> · <i>Open notes & assignments</i> →</a> &nbsp;·&nbsp; 🚀 <a href="proyek/01-python-automation-tool/"><b>Lihat proyek</b> · <i>View project</i> →</a>
 
 </td></tr></table>
 
@@ -283,7 +283,7 @@ Proyek kedua: <i>pipeline</i> data utuh dari pengambilan, pembersihan, penyimpan
 
 <img src="https://img.shields.io/badge/Data%20Pipeline-FF6F00?style=flat-square" alt="Data Pipeline"/> <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
 
-📂 <a href="sesi-11-project-2-end-to-end-data-pipeline/"><b>Buka catatan & tugas</b> · <i>Open notes & assignments</i> →</a>
+📂 <a href="sesi-11-project-2-end-to-end-data-pipeline/"><b>Buka catatan & tugas</b> · <i>Open notes & assignments</i> →</a> &nbsp;·&nbsp; 🚀 <a href="proyek/02-end-to-end-data-pipeline/"><b>Lihat proyek</b> · <i>View project</i> →</a>
 
 </td></tr></table>
 
@@ -355,7 +355,7 @@ Proyek ketiga: <i>chatbot</i> berbasis RAG yang menjawab pertanyaan dari kumpula
 
 <img src="https://img.shields.io/badge/RAG-8A2BE2?style=flat-square" alt="RAG"/> <img src="https://img.shields.io/badge/Azure%20OpenAI-0078D4?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik01LjQ4MyAyMS4zSDI0TDE0LjAyNSA0LjAxM2wtMy4wMzggOC4zNDcgNS44MzYgNi45MzhMNS40ODMgMjEuM3pNMTMuMjMgMi43TDYuMTA1IDguNjc3IDAgMTkuMjUzaDUuNTA1di4wMTRMMTMuMjMgMi43eiIvPjwvc3ZnPg%3D%3D" alt="Azure OpenAI"/> <img src="https://img.shields.io/badge/Azure%20AI%20Search-0078D4?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik01LjQ4MyAyMS4zSDI0TDE0LjAyNSA0LjAxM2wtMy4wMzggOC4zNDcgNS44MzYgNi45MzhMNS40ODMgMjEuM3pNMTMuMjMgMi43TDYuMTA1IDguNjc3IDAgMTkuMjUzaDUuNTA1di4wMTRMMTMuMjMgMi43eiIvPjwvc3ZnPg%3D%3D" alt="Azure AI Search"/>
 
-📂 <a href="sesi-15-project-3-ai-chatbot-rag-azure/"><b>Buka catatan & tugas</b> · <i>Open notes & assignments</i> →</a>
+📂 <a href="sesi-15-project-3-ai-chatbot-rag-azure/"><b>Buka catatan & tugas</b> · <i>Open notes & assignments</i> →</a> &nbsp;·&nbsp; 🚀 <a href="proyek/03-ai-chatbot-rag-azure/"><b>Lihat proyek</b> · <i>View project</i> →</a>
 
 </td></tr></table>
 
@@ -444,7 +444,7 @@ Proyek keempat: merancang dan menyiapkan infrastruktur AI di Azure dari <i>conta
 
 <img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik01LjQ4MyAyMS4zSDI0TDE0LjAyNSA0LjAxM2wtMy4wMzggOC4zNDcgNS44MzYgNi45MzhMNS40ODMgMjEuM3pNMTMuMjMgMi43TDYuMTA1IDguNjc3IDAgMTkuMjUzaDUuNTA1di4wMTRMMTMuMjMgMi43eiIvPjwvc3ZnPg%3D%3D" alt="Microsoft Azure"/> <img src="https://img.shields.io/badge/Container%20Registry-0078D4?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik01LjQ4MyAyMS4zSDI0TDE0LjAyNSA0LjAxM2wtMy4wMzggOC4zNDcgNS44MzYgNi45MzhMNS40ODMgMjEuM3pNMTMuMjMgMi43TDYuMTA1IDguNjc3IDAgMTkuMjUzaDUuNTA1di4wMTRMMTMuMjMgMi43eiIvPjwvc3ZnPg%3D%3D" alt="Container Registry"/> <img src="https://img.shields.io/badge/App%20Service%20%2F%20Container%20Apps-0078D4?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik01LjQ4MyAyMS4zSDI0TDE0LjAyNSA0LjAxM2wtMy4wMzggOC4zNDcgNS44MzYgNi45MzhMNS40ODMgMjEuM3pNMTMuMjMgMi43TDYuMTA1IDguNjc3IDAgMTkuMjUzaDUuNTA1di4wMTRMMTMuMjMgMi43eiIvPjwvc3ZnPg%3D%3D" alt="App Service / Container Apps"/>
 
-📂 <a href="sesi-20-project-4-azure-ai-infrastructure/"><b>Buka catatan & tugas</b> · <i>Open notes & assignments</i> →</a>
+📂 <a href="sesi-20-project-4-azure-ai-infrastructure/"><b>Buka catatan & tugas</b> · <i>Open notes & assignments</i> →</a> &nbsp;·&nbsp; 🚀 <a href="proyek/04-azure-ai-infrastructure/"><b>Lihat proyek</b> · <i>View project</i> →</a>
 
 </td></tr></table>
 
@@ -478,7 +478,7 @@ Menyatukan seluruh materi dalam <i>final project</i> dan latihan ujian sertifika
 
 <img src="https://img.shields.io/badge/AI--901-FFB900?style=flat-square" alt="AI-901"/> <img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik01LjQ4MyAyMS4zSDI0TDE0LjAyNSA0LjAxM2wtMy4wMzggOC4zNDcgNS44MzYgNi45MzhMNS40ODMgMjEuM3pNMTMuMjMgMi43TDYuMTA1IDguNjc3IDAgMTkuMjUzaDUuNTA1di4wMTRMMTMuMjMgMi43eiIvPjwvc3ZnPg%3D%3D" alt="Microsoft Azure"/>
 
-📂 <a href="sesi-22-final-project-mock-exam-ai-901/"><b>Buka catatan & tugas</b> · <i>Open notes & assignments</i> →</a>
+📂 <a href="sesi-22-final-project-mock-exam-ai-901/"><b>Buka catatan & tugas</b> · <i>Open notes & assignments</i> →</a> &nbsp;·&nbsp; 🚀 <a href="proyek/final-project/"><b>Lihat proyek</b> · <i>View project</i> →</a>
 
 </td></tr></table>
 
@@ -495,7 +495,7 @@ Presentasi <i>final project</i> di depan mentor dan peserta lain.<br>
 
 <img src="https://img.shields.io/badge/Showcase-FFB900?style=flat-square" alt="Showcase"/>
 
-📂 <a href="sesi-23-final-project-showcase/"><b>Buka catatan & tugas</b> · <i>Open notes & assignments</i> →</a>
+📂 <a href="sesi-23-final-project-showcase/"><b>Buka catatan & tugas</b> · <i>Open notes & assignments</i> →</a> &nbsp;·&nbsp; 🚀 <a href="proyek/final-project/"><b>Lihat proyek</b> · <i>View project</i> →</a>
 
 </td></tr></table>
 
@@ -503,14 +503,16 @@ Presentasi <i>final project</i> di depan mentor dan peserta lain.<br>
 
 ## 🏆 Proyek · *Projects*
 
+Kode tiap proyek ada di folder [`proyek/`](proyek/). Final Project dikerjakan di repository terpisah.<br>
+*Each project's code lives in the [`proyek/`](proyek/) folder. The Final Project has its own repository.*
+
 | | Proyek · *Project* | Sesi | Teknologi · *Tech* | Status |
 |:-:|---|:-:|---|:-:|
-| 🛠️ | [PROJECT 1 · Python Automation Tool](sesi-07-project-1-python-automation-tool/) | 7 | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/Automation-FF6F00?style=flat-square" alt="Automation"/> | ⏳ |
-| 🔁 | [PROJECT 2 · End-to-End Data Pipeline](sesi-11-project-2-end-to-end-data-pipeline/) | 11 | <img src="https://img.shields.io/badge/Data%20Pipeline-FF6F00?style=flat-square" alt="Data Pipeline"/> <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/> | ⏳ |
-| 🤖 | [PROJECT 3 · AI-Powered Chatbot (RAG) di Azure](sesi-15-project-3-ai-chatbot-rag-azure/) | 15 | <img src="https://img.shields.io/badge/RAG-8A2BE2?style=flat-square" alt="RAG"/> <img src="https://img.shields.io/badge/Azure%20OpenAI-0078D4?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik01LjQ4MyAyMS4zSDI0TDE0LjAyNSA0LjAxM2wtMy4wMzggOC4zNDcgNS44MzYgNi45MzhMNS40ODMgMjEuM3pNMTMuMjMgMi43TDYuMTA1IDguNjc3IDAgMTkuMjUzaDUuNTA1di4wMTRMMTMuMjMgMi43eiIvPjwvc3ZnPg%3D%3D" alt="Azure OpenAI"/> <img src="https://img.shields.io/badge/Azure%20AI%20Search-0078D4?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik01LjQ4MyAyMS4zSDI0TDE0LjAyNSA0LjAxM2wtMy4wMzggOC4zNDcgNS44MzYgNi45MzhMNS40ODMgMjEuM3pNMTMuMjMgMi43TDYuMTA1IDguNjc3IDAgMTkuMjUzaDUuNTA1di4wMTRMMTMuMjMgMi43eiIvPjwvc3ZnPg%3D%3D" alt="Azure AI Search"/> | ⏳ |
-| 🏗️ | [PROJECT 4 · Azure-Based AI Infrastructure](sesi-20-project-4-azure-ai-infrastructure/) | 20 | <img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik01LjQ4MyAyMS4zSDI0TDE0LjAyNSA0LjAxM2wtMy4wMzggOC4zNDcgNS44MzYgNi45MzhMNS40ODMgMjEuM3pNMTMuMjMgMi43TDYuMTA1IDguNjc3IDAgMTkuMjUzaDUuNTA1di4wMTRMMTMuMjMgMi43eiIvPjwvc3ZnPg%3D%3D" alt="Microsoft Azure"/> <img src="https://img.shields.io/badge/Container%20Registry-0078D4?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik01LjQ4MyAyMS4zSDI0TDE0LjAyNSA0LjAxM2wtMy4wMzggOC4zNDcgNS44MzYgNi45MzhMNS40ODMgMjEuM3pNMTMuMjMgMi43TDYuMTA1IDguNjc3IDAgMTkuMjUzaDUuNTA1di4wMTRMMTMuMjMgMi43eiIvPjwvc3ZnPg%3D%3D" alt="Container Registry"/> <img src="https://img.shields.io/badge/App%20Service%20%2F%20Container%20Apps-0078D4?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik01LjQ4MyAyMS4zSDI0TDE0LjAyNSA0LjAxM2wtMy4wMzggOC4zNDcgNS44MzYgNi45MzhMNS40ODMgMjEuM3pNMTMuMjMgMi43TDYuMTA1IDguNjc3IDAgMTkuMjUzaDUuNTA1di4wMTRMMTMuMjMgMi43eiIvPjwvc3ZnPg%3D%3D" alt="App Service / Container Apps"/> | ⏳ |
-| 🎯 | [Final Project · Integrasi + Mock Exam AI-901](sesi-22-final-project-mock-exam-ai-901/) | 22 | <img src="https://img.shields.io/badge/AI--901-FFB900?style=flat-square" alt="AI-901"/> <img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik01LjQ4MyAyMS4zSDI0TDE0LjAyNSA0LjAxM2wtMy4wMzggOC4zNDcgNS44MzYgNi45MzhMNS40ODMgMjEuM3pNMTMuMjMgMi43TDYuMTA1IDguNjc3IDAgMTkuMjUzaDUuNTA1di4wMTRMMTMuMjMgMi43eiIvPjwvc3ZnPg%3D%3D" alt="Microsoft Azure"/> | ⏳ |
-| 🏆 | [Final Project Showcase](sesi-23-final-project-showcase/) | 23 | <img src="https://img.shields.io/badge/Showcase-FFB900?style=flat-square" alt="Showcase"/> | ⏳ |
+| 🛠️ | [PROJECT 1 · Python Automation Tool](proyek/01-python-automation-tool/) | 7 | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/Automation-FF6F00?style=flat-square" alt="Automation"/> | ⏳ |
+| 🔁 | [PROJECT 2 · End-to-End Data Pipeline](proyek/02-end-to-end-data-pipeline/) | 11 | <img src="https://img.shields.io/badge/Data%20Pipeline-FF6F00?style=flat-square" alt="Data Pipeline"/> <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/> | ⏳ |
+| 🤖 | [PROJECT 3 · AI-Powered Chatbot (RAG) di Azure](proyek/03-ai-chatbot-rag-azure/) | 15 | <img src="https://img.shields.io/badge/RAG-8A2BE2?style=flat-square" alt="RAG"/> <img src="https://img.shields.io/badge/Azure%20OpenAI-0078D4?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik01LjQ4MyAyMS4zSDI0TDE0LjAyNSA0LjAxM2wtMy4wMzggOC4zNDcgNS44MzYgNi45MzhMNS40ODMgMjEuM3pNMTMuMjMgMi43TDYuMTA1IDguNjc3IDAgMTkuMjUzaDUuNTA1di4wMTRMMTMuMjMgMi43eiIvPjwvc3ZnPg%3D%3D" alt="Azure OpenAI"/> <img src="https://img.shields.io/badge/Azure%20AI%20Search-0078D4?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik01LjQ4MyAyMS4zSDI0TDE0LjAyNSA0LjAxM2wtMy4wMzggOC4zNDcgNS44MzYgNi45MzhMNS40ODMgMjEuM3pNMTMuMjMgMi43TDYuMTA1IDguNjc3IDAgMTkuMjUzaDUuNTA1di4wMTRMMTMuMjMgMi43eiIvPjwvc3ZnPg%3D%3D" alt="Azure AI Search"/> | ⏳ |
+| 🏗️ | [PROJECT 4 · Azure-Based AI Infrastructure](proyek/04-azure-ai-infrastructure/) | 20 | <img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik01LjQ4MyAyMS4zSDI0TDE0LjAyNSA0LjAxM2wtMy4wMzggOC4zNDcgNS44MzYgNi45MzhMNS40ODMgMjEuM3pNMTMuMjMgMi43TDYuMTA1IDguNjc3IDAgMTkuMjUzaDUuNTA1di4wMTRMMTMuMjMgMi43eiIvPjwvc3ZnPg%3D%3D" alt="Microsoft Azure"/> <img src="https://img.shields.io/badge/Container%20Registry-0078D4?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik01LjQ4MyAyMS4zSDI0TDE0LjAyNSA0LjAxM2wtMy4wMzggOC4zNDcgNS44MzYgNi45MzhMNS40ODMgMjEuM3pNMTMuMjMgMi43TDYuMTA1IDguNjc3IDAgMTkuMjUzaDUuNTA1di4wMTRMMTMuMjMgMi43eiIvPjwvc3ZnPg%3D%3D" alt="Container Registry"/> <img src="https://img.shields.io/badge/App%20Service%20%2F%20Container%20Apps-0078D4?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik01LjQ4MyAyMS4zSDI0TDE0LjAyNSA0LjAxM2wtMy4wMzggOC4zNDcgNS44MzYgNi45MzhMNS40ODMgMjEuM3pNMTMuMjMgMi43TDYuMTA1IDguNjc3IDAgMTkuMjUzaDUuNTA1di4wMTRMMTMuMjMgMi43eiIvPjwvc3ZnPg%3D%3D" alt="App Service / Container Apps"/> | ⏳ |
+| 🏆 | [Final Project · SIAGA NUSA](proyek/final-project/) | 2–23 | <img src="https://img.shields.io/badge/Agentic%20AI-D63384?style=flat-square" alt="Agentic AI"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/> <img src="https://img.shields.io/badge/MLOps-0194E2?style=flat-square&logo=mlflow&logoColor=white" alt="MLOps"/> | ⏳ |
 
 ## 📂 Struktur Repo · *Repository Structure*
 
@@ -518,6 +520,10 @@ Presentasi <i>final project</i> di depan mentor dan peserta lain.<br>
 .
 ├── README.md                  ← halaman ini · this page
 ├── assets/                    ← banner & gambar · banner & images
+├── proyek/                    ← kode proyek · project code
+│   ├── 01-python-automation-tool/
+│   ├── ...
+│   └── final-project/         ← tautan ke repo terpisah · link to separate repo
 ├── sesi-01-get-to-know-digital-skola/
 │   ├── README.md              ← ringkasan & catatan · summary & notes
 │   ├── notebooks/             ← latihan · practice notebooks
