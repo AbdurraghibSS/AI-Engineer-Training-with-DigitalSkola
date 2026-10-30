@@ -4,7 +4,7 @@
 
 # 🐍 Sesi 03 — Python I: Dasar Pemrograman
 
-<img src="https://img.shields.io/badge/Sesi-03%20%2F%2023-1B2A6B?style=for-the-badge" alt="Sesi"/> <img src="https://img.shields.io/badge/Tanggal-2%20November%202026-0078D4?style=for-the-badge" alt="Tanggal"/> <img src="https://img.shields.io/badge/Status-Akan%20Datang%20%C2%B7%20Upcoming-6E7681?style=for-the-badge" alt="Status"/>
+<img src="https://img.shields.io/badge/Sesi-03%20%2F%2023-1B2A6B?style=for-the-badge" alt="Sesi"/> <img src="https://img.shields.io/badge/Tanggal-2%20November%202026-0078D4?style=for-the-badge" alt="Tanggal"/> <img src="https://img.shields.io/badge/Status-Berlangsung%20%C2%B7%20In%20Progress-D29922?style=for-the-badge" alt="Status"/>
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter"/>
 
