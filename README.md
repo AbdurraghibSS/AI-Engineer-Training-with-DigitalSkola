@@ -6,7 +6,7 @@
 
 <img src="https://img.shields.io/badge/Digital%20Skola-Bootcamp-1B2A6B?style=for-the-badge" alt="Digital Skola"/> <img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik01LjQ4MyAyMS4zSDI0TDE0LjAyNSA0LjAxM2wtMy4wMzggOC4zNDcgNS44MzYgNi45MzhMNS40ODMgMjEuM3pNMTMuMjMgMi43TDYuMTA1IDguNjc3IDAgMTkuMjUzaDUuNTA1di4wMTRMMTMuMjMgMi43eiIvPjwvc3ZnPg%3D%3D" alt="Microsoft Azure"/> <img src="https://img.shields.io/badge/Sertifikasi-AI--901-FFB900?style=for-the-badge" alt="Sertifikasi"/>
 
-<img src="https://img.shields.io/badge/Sesi-23-1B2A6B?style=flat-square" alt="Sesi"/> <img src="https://img.shields.io/badge/Proyek-4%20%2B%20Final-8A2BE2?style=flat-square" alt="Proyek"/> <img src="https://img.shields.io/badge/Periode-28%20Okt%20%E2%80%93%2023%20Des%202026-0078D4?style=flat-square" alt="Periode"/> <img src="https://img.shields.io/badge/Progres-2%2F23%20sesi-2EA043?style=flat-square" alt="Progres"/>
+<img src="https://img.shields.io/badge/Sesi-23-1B2A6B?style=flat-square" alt="Sesi"/> <img src="https://img.shields.io/badge/Proyek-4%20%2B%20Final-8A2BE2?style=flat-square" alt="Proyek"/> <img src="https://img.shields.io/badge/Periode-28%20Okt%20%E2%80%93%2023%20Des%202026-0078D4?style=flat-square" alt="Periode"/> <img src="https://img.shields.io/badge/Progres-3%2F23%20sesi-2EA043?style=flat-square" alt="Progres"/>
 
 🇮🇩 Bahasa Indonesia &nbsp;·&nbsp; 🇬🇧 *English in italics*
 
@@ -26,7 +26,7 @@ Repo ini mendokumentasikan perjalanan saya mengikuti bootcamp **AI Engineer** di
 
 **📈 Progres · *Progress***
 
-`██░░░░░░░░░░░░░░░░░░` **9%** &nbsp;<sub>(2 dari 23 sesi selesai · *2 of 23 sessions done*)</sub>
+`███░░░░░░░░░░░░░░░░░` **13%** &nbsp;<sub>(3 dari 23 sesi selesai · *3 of 23 sessions done*)</sub>
 
 </div>
 
@@ -137,7 +137,7 @@ Gambaran peran AI Engineer dan layanan AI di Azure: Azure OpenAI, AI Foundry, AI
 </details>
 
 <details>
-<summary>🔄 <b>Sesi 03</b> &nbsp;🐍 <b>Python I: Dasar Pemrograman</b> &nbsp;<sub>· Senin, 2 November 2026</sub></summary>
+<summary>✅ <b>Sesi 03</b> &nbsp;🐍 <b>Python I: Dasar Pemrograman</b> &nbsp;<sub>· Senin, 2 November 2026</sub></summary>
 <br>
 
 <table><tr><td>
@@ -154,7 +154,7 @@ Dasar Python: variabel, tipe data, operator, percabangan, perulangan, dan strukt
 </details>
 
 <details>
-<summary>⏳ <b>Sesi 04</b> &nbsp;🧩 <b>Python II: Fungsi & OOP</b> &nbsp;<sub>· Rabu, 4 November 2026</sub></summary>
+<summary>🔄 <b>Sesi 04</b> &nbsp;🧩 <b>Python II: Fungsi & OOP</b> &nbsp;<sub>· Rabu, 4 November 2026</sub></summary>
 <br>
 
 <table><tr><td>
