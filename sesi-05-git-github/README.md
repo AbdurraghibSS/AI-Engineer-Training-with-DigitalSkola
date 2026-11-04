@@ -4,7 +4,7 @@
 
 # 🌿 Sesi 05 — Git & GitHub
 
-<img src="https://img.shields.io/badge/Sesi-05%20%2F%2023-1B2A6B?style=for-the-badge" alt="Sesi"/> <img src="https://img.shields.io/badge/Tanggal-6%20November%202026-0078D4?style=for-the-badge" alt="Tanggal"/> <img src="https://img.shields.io/badge/Status-Akan%20Datang%20%C2%B7%20Upcoming-6E7681?style=for-the-badge" alt="Status"/>
+<img src="https://img.shields.io/badge/Sesi-05%20%2F%2023-1B2A6B?style=for-the-badge" alt="Sesi"/> <img src="https://img.shields.io/badge/Tanggal-6%20November%202026-0078D4?style=for-the-badge" alt="Tanggal"/> <img src="https://img.shields.io/badge/Status-Berlangsung%20%C2%B7%20In%20Progress-D29922?style=for-the-badge" alt="Status"/>
 
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
 
