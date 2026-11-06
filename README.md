@@ -6,7 +6,7 @@
 
 <img src="https://img.shields.io/badge/Digital%20Skola-Bootcamp-1B2A6B?style=for-the-badge" alt="Digital Skola"/> <img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik01LjQ4MyAyMS4zSDI0TDE0LjAyNSA0LjAxM2wtMy4wMzggOC4zNDcgNS44MzYgNi45MzhMNS40ODMgMjEuM3pNMTMuMjMgMi43TDYuMTA1IDguNjc3IDAgMTkuMjUzaDUuNTA1di4wMTRMMTMuMjMgMi43eiIvPjwvc3ZnPg%3D%3D" alt="Microsoft Azure"/> <img src="https://img.shields.io/badge/Sertifikasi-AI--901-FFB900?style=for-the-badge" alt="Sertifikasi"/>
 
-<img src="https://img.shields.io/badge/Sesi-23-1B2A6B?style=flat-square" alt="Sesi"/> <img src="https://img.shields.io/badge/Proyek-4%20%2B%20Final-8A2BE2?style=flat-square" alt="Proyek"/> <img src="https://img.shields.io/badge/Periode-28%20Okt%20%E2%80%93%2023%20Des%202026-0078D4?style=flat-square" alt="Periode"/> <img src="https://img.shields.io/badge/Progres-4%2F23%20sesi-2EA043?style=flat-square" alt="Progres"/>
+<img src="https://img.shields.io/badge/Sesi-23-1B2A6B?style=flat-square" alt="Sesi"/> <img src="https://img.shields.io/badge/Proyek-4%20%2B%20Final-8A2BE2?style=flat-square" alt="Proyek"/> <img src="https://img.shields.io/badge/Periode-28%20Okt%20%E2%80%93%2023%20Des%202026-0078D4?style=flat-square" alt="Periode"/> <img src="https://img.shields.io/badge/Progres-5%2F23%20sesi-2EA043?style=flat-square" alt="Progres"/>
 
 🇮🇩 Bahasa Indonesia &nbsp;·&nbsp; 🇬🇧 *English in italics*
 
@@ -26,7 +26,7 @@ Repo ini mendokumentasikan perjalanan saya mengikuti bootcamp **AI Engineer** di
 
 **📈 Progres · *Progress***
 
-`███░░░░░░░░░░░░░░░░░` **17%** &nbsp;<sub>(4 dari 23 sesi selesai · *4 of 23 sessions done*)</sub>
+`████░░░░░░░░░░░░░░░░` **22%** &nbsp;<sub>(5 dari 23 sesi selesai · *5 of 23 sessions done*)</sub>
 
 </div>
 
@@ -171,7 +171,7 @@ Fungsi, modul, penanganan <i>error</i>, dan pemrograman berorientasi objek (<i>c
 </details>
 
 <details>
-<summary>🔄 <b>Sesi 05</b> &nbsp;🌿 <b>Git & GitHub</b> &nbsp;<sub>· Jumat, 6 November 2026</sub></summary>
+<summary>✅ <b>Sesi 05</b> &nbsp;🌿 <b>Git & GitHub</b> &nbsp;<sub>· Jumat, 6 November 2026</sub></summary>
 <br>
 
 <table><tr><td>
@@ -188,7 +188,7 @@ Fungsi, modul, penanganan <i>error</i>, dan pemrograman berorientasi objek (<i>c
 </details>
 
 <details>
-<summary>⏳ <b>Sesi 06</b> &nbsp;🐼 <b>Data Wrangling dengan Pandas</b> &nbsp;<sub>· Senin, 9 November 2026</sub></summary>
+<summary>🔄 <b>Sesi 06</b> &nbsp;🐼 <b>Data Wrangling dengan Pandas</b> &nbsp;<sub>· Senin, 9 November 2026</sub></summary>
 <br>
 
 <table><tr><td>
