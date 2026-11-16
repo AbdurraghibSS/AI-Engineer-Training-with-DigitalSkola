@@ -2,9 +2,24 @@ BOOTCAMPBG ZOOM@4x.png
 
 # Draf planning Final Project, jangan di-push sampai final
 proyek/final-project/PLANNING.md
+proyek/final-project/PLANNING2.md
+proyek/final-project/PLANNING3.md
 
 # Catatan mentah per sesi, cukup ringkasan di README
 sesi-*/Notes Sesi *
 
 # Materi dari tutor, tidak boleh diunggah (notebook latihan sendiri boleh)
 sesi-*/Sesi * - *.ipynb
+
+# Dataset dari tutor (termasuk hasil cleaning-nya), tidak boleh diunggah
+sesi-*/dataset_*.csv
+proyek/*/dataset_*.csv
+
+# Slide, notebook kelas, dan brief tugas dari tutor (PDF SQL berisi kredensial DB)
+sesi-*/Sesi * - *.pdf
+sesi-*/* - Session * - *.pdf
+sesi-*/Sesi_*.ipynb
+sesi-07-project-1-python-automation-tool/miniproject1.txt
+
+# Arsip pengumpulan tugas (berisi dataset hasil cleaning)
+sesi-*/*.zip
