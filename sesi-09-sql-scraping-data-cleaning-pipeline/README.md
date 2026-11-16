@@ -4,7 +4,7 @@
 
 # 🧹 Sesi 09 — SQL Scraping & Data Cleaning Pipeline
 
-<img src="https://img.shields.io/badge/Sesi-09%20%2F%2023-1B2A6B?style=for-the-badge" alt="Sesi"/> <img src="https://img.shields.io/badge/Tanggal-16%20November%202026-0078D4?style=for-the-badge" alt="Tanggal"/> <img src="https://img.shields.io/badge/Status-Akan%20Datang%20%C2%B7%20Upcoming-6E7681?style=for-the-badge" alt="Status"/>
+<img src="https://img.shields.io/badge/Sesi-09%20%2F%2023-1B2A6B?style=for-the-badge" alt="Sesi"/> <img src="https://img.shields.io/badge/Tanggal-16%20November%202026-0078D4?style=for-the-badge" alt="Tanggal"/> <img src="https://img.shields.io/badge/Status-Berlangsung%20%C2%B7%20In%20Progress-D29922?style=for-the-badge" alt="Status"/>
 
 <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL"/> <img src="https://img.shields.io/badge/Web%20Scraping-6E40C9?style=flat-square" alt="Web Scraping"/> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
 
