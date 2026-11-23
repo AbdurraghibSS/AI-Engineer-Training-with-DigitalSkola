@@ -1,0 +1,13 @@
+# === Dari Session 9 ===
+requests
+beautifulsoup4
+lxml
+pandas
+sqlalchemy
+psycopg2-binary
+pydantic-settings
+
+# === Baru Session 10 ===
+fastapi
+uvicorn
+PyJWT
