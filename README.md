@@ -26,7 +26,7 @@ Repo ini mendokumentasikan perjalanan saya mengikuti bootcamp **AI Engineer** di
 
 **📈 Progres · *Progress***
 
-`███████░░░░░░░░░░░░░` **35%** &nbsp;<sub>(8 dari 23 sesi selesai · *8 of 23 sessions done*)</sub>
+`██████████░░░░░░░░░░` **48%** &nbsp;<sub>(11 dari 23 sesi selesai · *11 of 23 sessions done*)</sub>
 
 </div>
 
@@ -239,7 +239,7 @@ Query SQL untuk menyiapkan data AI: <i>SELECT</i>, <i>JOIN</i>, agregasi, <i>CTE
 </details>
 
 <details>
-<summary>🔄 <b>Sesi 09</b> &nbsp;🧹 <b>SQL Scraping & Data Cleaning Pipeline</b> &nbsp;<sub>· Senin, 16 November 2026</sub></summary>
+<summary>✅ <b>Sesi 09</b> &nbsp;🧹 <b>SQL Scraping & Data Cleaning Pipeline</b> &nbsp;<sub>· Senin, 16 November 2026</sub></summary>
 <br>
 
 <table><tr><td>
@@ -256,7 +256,7 @@ Mengambil data dari web/sumber eksternal lalu membangun <i>pipeline</i> pembersi
 </details>
 
 <details>
-<summary>⏳ <b>Sesi 10</b> &nbsp;⚡ <b>API & FastAPI untuk AI</b> &nbsp;<sub>· Rabu, 18 November 2026</sub></summary>
+<summary>✅ <b>Sesi 10</b> &nbsp;⚡ <b>API & FastAPI untuk AI</b> &nbsp;<sub>· Rabu, 18 November 2026</sub></summary>
 <br>
 
 <table><tr><td>
@@ -273,7 +273,7 @@ Konsep REST API dan membangun <i>endpoint</i> layanan AI dengan FastAPI.<br>
 </details>
 
 <details>
-<summary>⏳ <b>Sesi 11</b> &nbsp;🔁 <b>PROJECT 2 · End-to-End Data Pipeline</b> ⭐ &nbsp;<sub>· Jumat, 20 November 2026</sub></summary>
+<summary>✅ <b>Sesi 11</b> &nbsp;🔁 <b>PROJECT 2 · End-to-End Data Pipeline</b> ⭐ &nbsp;<sub>· Jumat, 20 November 2026</sub></summary>
 <br>
 
 <table><tr><td>
@@ -509,7 +509,7 @@ Kode tiap proyek ada di folder [`proyek/`](proyek/). Final Project dikerjakan di
 | | Proyek · *Project* | Sesi | Teknologi · *Tech* | Status |
 |:-:|---|:-:|---|:-:|
 | 🛠️ | [PROJECT 1 · Python Automation Tool](proyek/01-python-automation-tool/) | 7 | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/Automation-FF6F00?style=flat-square" alt="Automation"/> | ✅ |
-| 🔁 | [PROJECT 2 · End-to-End Data Pipeline](proyek/02-end-to-end-data-pipeline/) | 11 | <img src="https://img.shields.io/badge/Data%20Pipeline-FF6F00?style=flat-square" alt="Data Pipeline"/> <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/> | ⏳ |
+| 🔁 | [PROJECT 2 · End-to-End Data Pipeline](proyek/02-end-to-end-data-pipeline/) | 11 | <img src="https://img.shields.io/badge/Data%20Pipeline-FF6F00?style=flat-square" alt="Data Pipeline"/> <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/> | ✅ |
 | 🤖 | [PROJECT 3 · AI-Powered Chatbot (RAG) di Azure](proyek/03-ai-chatbot-rag-azure/) | 15 | <img src="https://img.shields.io/badge/RAG-8A2BE2?style=flat-square" alt="RAG"/> <img src="https://img.shields.io/badge/Azure%20OpenAI-0078D4?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik01LjQ4MyAyMS4zSDI0TDE0LjAyNSA0LjAxM2wtMy4wMzggOC4zNDcgNS44MzYgNi45MzhMNS40ODMgMjEuM3pNMTMuMjMgMi43TDYuMTA1IDguNjc3IDAgMTkuMjUzaDUuNTA1di4wMTRMMTMuMjMgMi43eiIvPjwvc3ZnPg%3D%3D" alt="Azure OpenAI"/> <img src="https://img.shields.io/badge/Azure%20AI%20Search-0078D4?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik01LjQ4MyAyMS4zSDI0TDE0LjAyNSA0LjAxM2wtMy4wMzggOC4zNDcgNS44MzYgNi45MzhMNS40ODMgMjEuM3pNMTMuMjMgMi43TDYuMTA1IDguNjc3IDAgMTkuMjUzaDUuNTA1di4wMTRMMTMuMjMgMi43eiIvPjwvc3ZnPg%3D%3D" alt="Azure AI Search"/> | ⏳ |
 | 🏗️ | [PROJECT 4 · Azure-Based AI Infrastructure](proyek/04-azure-ai-infrastructure/) | 20 | <img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik01LjQ4MyAyMS4zSDI0TDE0LjAyNSA0LjAxM2wtMy4wMzggOC4zNDcgNS44MzYgNi45MzhMNS40ODMgMjEuM3pNMTMuMjMgMi43TDYuMTA1IDguNjc3IDAgMTkuMjUzaDUuNTA1di4wMTRMMTMuMjMgMi43eiIvPjwvc3ZnPg%3D%3D" alt="Microsoft Azure"/> <img src="https://img.shields.io/badge/Container%20Registry-0078D4?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik01LjQ4MyAyMS4zSDI0TDE0LjAyNSA0LjAxM2wtMy4wMzggOC4zNDcgNS44MzYgNi45MzhMNS40ODMgMjEuM3pNMTMuMjMgMi43TDYuMTA1IDguNjc3IDAgMTkuMjUzaDUuNTA1di4wMTRMMTMuMjMgMi43eiIvPjwvc3ZnPg%3D%3D" alt="Container Registry"/> <img src="https://img.shields.io/badge/App%20Service%20%2F%20Container%20Apps-0078D4?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik01LjQ4MyAyMS4zSDI0TDE0LjAyNSA0LjAxM2wtMy4wMzggOC4zNDcgNS44MzYgNi45MzhMNS40ODMgMjEuM3pNMTMuMjMgMi43TDYuMTA1IDguNjc3IDAgMTkuMjUzaDUuNTA1di4wMTRMMTMuMjMgMi43eiIvPjwvc3ZnPg%3D%3D" alt="App Service / Container Apps"/> | ⏳ |
 | 🏆 | [Final Project · SIAGA NUSA](proyek/final-project/) | 2–23 | <img src="https://img.shields.io/badge/Agentic%20AI-D63384?style=flat-square" alt="Agentic AI"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/> <img src="https://img.shields.io/badge/MLOps-0194E2?style=flat-square&logo=mlflow&logoColor=white" alt="MLOps"/> | ⏳ |

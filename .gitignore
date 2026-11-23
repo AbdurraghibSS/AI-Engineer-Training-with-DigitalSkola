@@ -23,3 +23,23 @@ sesi-07-project-1-python-automation-tool/miniproject1.txt
 
 # Arsip pengumpulan tugas (berisi dataset hasil cleaning)
 sesi-*/*.zip
+
+# Kredensial (DB, API key, JWT secret), jangan pernah di-push
+.env
+!.env.example
+
+# Artefak Python lokal
+__pycache__/
+venv/
+
+# Dataset dan brief tugas dari tutor
+**/employee_attrition.csv
+proyek/*/perintah.docx
+
+# Sesi 10–11: slide, soal homework, starter code, panduan, dan koleksi Postman dari tutor
+sesi-*/Session * - *.pdf
+sesi-10-api-fastapi-untuk-ai/Homework.pdf
+sesi-10-api-fastapi-untuk-ai/homework.txt
+sesi-10-api-fastapi-untuk-ai/main_starter.py
+sesi-10-api-fastapi-untuk-ai/Panduan.md
+sesi-*/*.postman_collection.json
